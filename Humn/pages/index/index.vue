@@ -16,7 +16,7 @@
 				<view class="menu-line"></view>
 			</view>
 		</view>
-
+ 
 		<!-- 当前播放提示 -->
 		<view class="now-playing" :class="{ in: nowPlayingIn }">
 			<view class="playing-wave">
