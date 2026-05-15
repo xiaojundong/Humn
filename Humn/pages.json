@@ -1,0 +1,24 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				"app-plus": {
+					"titleNView": false,
+					"statusbar": {
+						"background": "#0a0a1a"
+					}
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#0a0a1a",
+		"backgroundColor": "#0a0a1a"
+	},
+	"uniIdRouter": {}
+}
